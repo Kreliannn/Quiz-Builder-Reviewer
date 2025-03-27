@@ -16,7 +16,13 @@ A web-based quiz-taking application where users can create, review, and answer q
 - **JavaScript** – Quiz functionality and theme switching  
 
 ## 📸 Preview  
-![Quiz Master Screenshot](link-to-your-image) <!-- Replace with actual image link -->
+![Image](https://github.com/user-attachments/assets/b9768704-23ca-45fe-9749-b645e17b9a60)
+
+![Image](https://github.com/user-attachments/assets/3ca6e180-b409-44f2-a400-f064a3f376f6)
+
+![Image](https://github.com/user-attachments/assets/d1e6d043-c5bd-49c8-86f2-eec810b98b70)
+
+![Image](https://github.com/user-attachments/assets/38017fd7-d8b5-475f-9b72-998ed9078f9f)
 
 ---
 
