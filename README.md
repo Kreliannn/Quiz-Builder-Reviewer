@@ -9,11 +9,9 @@ A web-based quiz-taking application where users can create, review, and answer q
 - ❓ **Answer Quizzes** – Take quizzes and see your results.  
 - 🎨 **Theme Customization** – Change the website theme to Pink, Navy, Green, and more.  
 
-## 🛠 Technologies Used  
+## 🎥 Demo Video  
+📹 [Watch on TikTok](https://www.tiktok.com/@krelq/video/7434151886229425416) 
 
-- **HTML** – Structure of the application  
-- **CSS** – Styling and themes  
-- **JavaScript** – Quiz functionality and theme switching  
 
 ## 📸 Preview  
 ![Image](https://github.com/user-attachments/assets/b9768704-23ca-45fe-9749-b645e17b9a60)
